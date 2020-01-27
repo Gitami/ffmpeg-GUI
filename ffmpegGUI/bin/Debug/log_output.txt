@@ -1,0 +1,6 @@
+
+Log Entry : 14.29.18 Friday, 24 January 2020
+  :
+  :Running:
+ffmpeg -i "C:\Users\tra\Downloads\_Seen\American pickers\american.pickers.s20e24.web.h264-tbs[ettv].mkv" -crf 32 -preset "faster" -s 1400x1050 -vf "yadif=1:0, unsharp=2:2:1, hqdn3d=2:2:2:2" -f avi -ab 512k "test.avi"
+-------------------------------

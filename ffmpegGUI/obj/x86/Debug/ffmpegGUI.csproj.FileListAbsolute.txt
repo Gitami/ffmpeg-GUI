@@ -1,0 +1,10 @@
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\bin\Debug\ffmpegGUI.exe.config
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\obj\x86\Debug\ffmpegGUI.Properties.Resources.resources
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\bin\Debug\ffmpegGUI.exe
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\bin\Debug\ffmpegGUI.pdb
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\obj\x86\Debug\ffmpegGUI.exe
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\obj\x86\Debug\ffmpegGUI.pdb
+C:\Domains\VisualStudioProjects\My Projects\ffmpegGUI\ffmpegGUI\ffmpegGUI\obj\x86\Debug\ffmpegGUI.FFmpegGUI.resources
